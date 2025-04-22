@@ -1,23 +1,84 @@
-<h1 align="center">Hi 👋, I'm Keshala Senarath</h1>
-<h3 align="center">A passionate Full stack developer from Sri lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=keshala123&label=Profile%20views&color=0e75b6&style=flat" alt="keshala123" /> </p>
 
-- 🔭 I’m currently studying at **Institute Of Technology, University Of Moratuwa**
 
-- 🌱 I’m currently learning **Spring Boot, Cloud Computing**
+<!-- Header Section with Animated Typing Effect -->
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" height="150" alt="Welcome GIF"/>
+  <h1>👨‍💻 Keshala Senarath</h1>
+  <h3>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Passionate+about+Code;From+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
+    </a>
+  </h3>
+  <img src="https://komarev.com/ghpvc/?username=keshala123&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
-- 💬 Ask me about **JAVA WITH OOP, REACT,HTML,PHP,CSS,JAVASCRIPT**
+<!-- About Me Section -->
+## 🚀 About Me
+I'm a passionate **Full Stack Developer** from Sri Lanka, currently studying at the **Institute of Technology, University of Moratuwa**. I love crafting innovative solutions and am always exploring new tech. My current focus is on **Spring Boot** and **Cloud Computing**, but I’m skilled in a wide range of tools and languages.
 
-- 📫 How to reach me **Senuu08@gmail.com**
+- 🔭 **Currently Studying**: Institute of Technology, University of Moratuwa
+- 🌱 **Learning**: Spring Boot, Cloud Computing
+- 💬 **Ask Me About**: Java (OOP), React, HTML, PHP, CSS, JavaScript
+- 📫 **Reach Me**: [Senuu08@gmail.com](mailto:Senuu08@gmail.com)
+- 🌐 **Portfolio**: [Visit My Portfolio](#) *(Not Yet Finish)*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/keshala senarath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshala senarath" height="30" width="40" /></a>
-<a href="https://fb.com/keshala senarath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="keshala senarath" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@senuu08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@senuu08" height="30" width="40" /></a>
+<!-- Connect With Me Section -->
+## 🌐 Connect With Me
+<p align="center">
+  <a href="www.linkedin.com/in/keshala-senarath" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://fb.com/keshala-senarath" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.hackerearth.com/@senuu08" target="_blank">
+    <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<!-- Skills Section with Progress Bars -->
+## 🛠️ Languages & Tools
+Here are some of the technologies I work with, along with my proficiency levels:
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+</div>
+
+<!-- Skill Progress Bars -->
+<p align="center">
+  <img src="https://progress-bar.dev/90/?title=Java&width=200" alt="Java Progress" />
+  <img src="https://progress-bar.dev/85/?title=React&width=200" alt="React Progress" />
+  <img src="https://progress-bar.dev/80/?title=JavaScript&width=200" alt="JavaScript Progress" />
+  <img src="https://progress-bar.dev/95/?title=HTML/CSS&width=200" alt="HTML/CSS Progress" />
+  <img src="https://progress-bar.dev/75/?title=PHP&width=200" alt="PHP Progress" />
+</p>
+
+<!-- GitHub Trophies -->
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=keshala123&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+<!-- GitHub Stats Section -->
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keshala123&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshala123&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<!-- Footer Section -->
+<div align="center">
+  <h3>✨ Thanks for visiting my profile! Let's build something amazing together! ✨</h3>
+</div>
