@@ -15,13 +15,13 @@
 
 <!-- About Me Section -->
 ## 🚀 About Me
-I'm a passionate **Full Stack Developer** from Sri Lanka, currently studying at the **Institute of Technology, University of Moratuwa**. I love crafting innovative solutions and am always exploring new tech. My current focus is on **Spring Boot** and **Cloud Computing**, but I’m skilled in a wide range of tools and languages.
+I'm a passionate **Full Stack Developer** from Sri Lanka, currently studying at the **Institute of Technology, University of Moratuwa**. I love crafting innovative solutions and am always exploring new tech. My current focus is on **Next.js** and **Artificial Intelligence**, but I’m skilled in a wide range of tools and languages.
 
 - 🔭 **Currently Studying**: Institute of Technology, University of Moratuwa
 - 🌱 **Learning**: Spring Boot, Cloud Computing
-- 💬 **Ask Me About**: Java (OOP), React, HTML, PHP, CSS, JavaScript
+- 💬 **Ask Me About**: Java (OOP), React, HTML, Node.js,Express.js, Tailwind CSS, JavaScript
 - 📫 **Reach Me**: [Senuu08@gmail.com](mailto:Senuu08@gmail.com)
-- 🌐 **Portfolio**: [Visit My Portfolio](#) *(Not Yet Finish)*
+- 🌐 **Portfolio**: [[Visit My Portfolio](https://my-portfolio-l7mz.vercel.app/)](#) 
 
 <!-- Connect With Me Section -->
 ## 🌐 Connect With Me
@@ -62,7 +62,7 @@ Here are some of the technologies I work with, along with my proficiency levels:
   <img src="https://progress-bar.dev/85/?title=React&width=200" alt="React Progress" />
   <img src="https://progress-bar.dev/80/?title=JavaScript&width=200" alt="JavaScript Progress" />
   <img src="https://progress-bar.dev/95/?title=HTML/CSS&width=200" alt="HTML/CSS Progress" />
-  <img src="https://progress-bar.dev/75/?title=PHP&width=200" alt="PHP Progress" />
+  <img src="https://progress-bar.dev/75/?title=PHP&width=200" alt="Node.js Progress" />
 </p>
 
 <!-- GitHub Trophies -->
